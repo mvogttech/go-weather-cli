@@ -6,6 +6,8 @@ After being tired of going to different weather sources / websites filled with a
 
 The weather forecast originates from weather.gov's public free-to-use API. Meaning this software will be free and accessible to anyone.
 
+**That means there is no extra setup our API key configuration. Just install the app and run for your terminal.**
+
 ## License
 
 MIT License
