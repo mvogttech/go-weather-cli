@@ -1,5 +1,3 @@
-# go-weather-cli
-
 ## A Simple Weather CLI
 
 After being tired of going to different weather sources / websites filled with ads, I decided to create a simplistic free-to-use weather forecast report that I could access right in my terminal.
