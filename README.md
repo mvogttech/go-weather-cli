@@ -8,6 +8,17 @@ The weather forecast originates from weather.gov's public free-to-use API. Meani
 
 **That means there is no extra setup or API key configuration. Just install the app and run from your terminal.**
 
+### Usage
+
+- Download the executable (https://github.com/mvogttech/go-weather-cli/releases/download/V1/go-weather-cli)[https://github.com/mvogttech/go-weather-cli/releases/download/V1/go-weather-cli]
+- Move to desired folder on your machine `/Users/youruser/standaloneapps/`
+- Setup terminal alias
+- Open Terminal
+- Open .zshrc `sudo nano ~/.zshrc`
+- Create alias `alias weather=/Users/youruser/standaloneapps/go-weather-cli`
+- Save file `Ctrl+X`
+- User `weather` command from your terminal
+
 ## License
 
 MIT License
