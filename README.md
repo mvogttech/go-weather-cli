@@ -20,6 +20,7 @@ The weather forecast originates from weather.gov's public free-to-use API. Meani
 - Create alias `alias weather=/Users/youruser/standaloneapps/go-weather-cli`
 - Save file `Ctrl+X`
 - Use `weather` command from your terminal
+- `weather "1600 Pennslyvania Ave, Washington, DC 20500"`
 
 ## License
 
