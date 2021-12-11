@@ -10,7 +10,7 @@ The weather forecast originates from weather.gov's public free-to-use API. Meani
 
 ### Usage
 
-- Download the executable (https://github.com/mvogttech/go-weather-cli/releases/download/V1/go-weather-cli)[https://github.com/mvogttech/go-weather-cli/releases/download/V1/go-weather-cli]
+- Download the [executable](https://github.com/mvogttech/go-weather-cli/releases/download/V1/go-weather-cli "Latest go-weather-cli release")
 - Move to desired folder on your machine `/Users/youruser/standaloneapps/`
 - Setup terminal alias
 - Open Terminal
