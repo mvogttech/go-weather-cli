@@ -19,7 +19,7 @@ The weather forecast originates from weather.gov's public free-to-use API. Meani
 - Open .zshrc `sudo nano ~/.zshrc`
 - Create alias `alias weather=/Users/youruser/standaloneapps/go-weather-cli`
 - Save file `Ctrl+X`
-- User `weather` command from your terminal
+- Use `weather` command from your terminal
 
 ## License
 
