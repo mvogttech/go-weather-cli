@@ -2,7 +2,5 @@ github.com/Jeffail/gabs v1.4.0 h1://5fYRRTq1edjfIrQGvdkcd22pkYUrHZ5YC/H2GJVAo=
 github.com/Jeffail/gabs v1.4.0/go.mod h1:6xMvQMK4k33lb7GUUpaAPh6nKMmemQeg5d4gn7/bOXc=
 github.com/mattn/go-runewidth v0.0.9 h1:Lm995f3rfxdpd6TSmuVCHVb/QhupuXlYr8sCI/QdE+0=
 github.com/mattn/go-runewidth v0.0.9/go.mod h1:H031xJmbD/WCDINGzjvQ9THkh0rPKHF+m2gUSrubnMI=
-github.com/mvogttech/go-weather-cli/internal/weather v0.0.0-20211211152549-4c39a0190469 h1:8/UPfFuECJx5DWkDjQhb1fGDnPNXgOQBK0WRj8CMG5I=
-github.com/mvogttech/go-weather-cli/internal/weather v0.0.0-20211211152549-4c39a0190469/go.mod h1:Q6vi1TLvXUbm48LKFKbrkywPYIGScrj1Rjm/wFYFLtE=
 github.com/olekukonko/tablewriter v0.0.5 h1:P2Ga83D34wi1o9J6Wh1mRuqd4mF/x/lgBS7N7AbDhec=
 github.com/olekukonko/tablewriter v0.0.5/go.mod h1:hPp6KlRPjbx+hW8ykQs1w3UBbZlj6HuIJcUGPhkA7kY=
