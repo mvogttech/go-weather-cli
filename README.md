@@ -1,5 +1,7 @@
 ## A Simple Weather CLI
 
+![go-weather-cli in action](https://github.com/mvogttech/go-weather-cli/blob/main/action.png?raw=true "The weather... in your terminal!")
+
 After being tired of going to different weather sources / websites filled with ads, I decided to create a simplistic free-to-use weather forecast report that I could access right in my terminal.
 
 ## Where Does The Information Come From?
