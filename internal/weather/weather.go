@@ -142,7 +142,7 @@ func getForecast(zoneURL string) Forecast {
 	return forecast
 }
 
-func fetchWeather(address string) {
+func FetchWeather(address string) {
 	geo := getGeo(address)
 	zone := getWeatherZone(formatGeoProp(geo.Y), formatGeoProp(geo.X))
 	forecast := getForecast(zone)

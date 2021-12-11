@@ -4,6 +4,8 @@ import (
 	"bufio"
 	"fmt"
 	"os"
+
+	"github.com/mvogttech/go-weather-cli/internal/weather"
 )
 
 
@@ -15,6 +17,6 @@ func main() {
     address, err := reader.ReadString('\n')
 	fmt.Errorf("%v", err)
 	
-	weather.fetchWeather(address)
+	weather.FetchWeather(address)
 
 }
