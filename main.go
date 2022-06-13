@@ -169,8 +169,12 @@ func FetchWeather(address string) {
 
 func main() {
 	var address string
-	address = os.Args[1]
-	fmt.Println("Fetching weather for: " + address)
+	if len(os.Args[1:]) > 0 {
+		address = os.Args[1]
+	}
+	if address != "" {
+		fmt.Println("Fetching weather for: " + address)
+	}
 	if address == "" {
 		reader := bufio.NewReader(os.Stdin)
 		fmt.Println("Enter your address: ")
